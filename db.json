@@ -1,0 +1,114 @@
+
+
+
+{
+
+
+"navbar"  :  [
+    {
+         "id"  :  1  , 
+         "title"  :  "Home"  ,  
+         "Link" :  "/"
+    }  , 
+    {
+         "id"  :  2  , 
+         "title"  :  "Login"  ,  
+         "Link" :  "/login"
+    }  , 
+    {
+         "id"  :  3  , 
+         "title"  :  "Features"  ,  
+         "Link" :  "/features"
+    }  , 
+    {
+         "id"  :  4  , 
+         "title"  :  "Blog"  ,  
+         "Link" :  "/blog"
+    }  , 
+    {
+         "id"  :  5  , 
+         "title"  :  "Contact"  ,  
+         "Link" :  "/contact"
+    }  
+]  ,  
+
+
+
+
+
+
+"bestTaxis"     :    [
+
+     {
+
+
+
+          "id"  :     1  ,  
+          "cover"  :    "/my-app/app/assert/car2.png"   ,  
+          "title"  :  "Economy  Class"  ,  
+          "desc"  :  "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque beatae dolor sed ab, repudiandae corrupti."  ,  
+          "price"  :  10
+     }    ,  
+     
+     {
+
+
+          "id"  :     2  ,  
+          "cover"  :  "/my-app/app/assert/car5.png"   ,  
+          "title"  :  "Standard  Class"  ,  
+          "desc"  :  "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque beatae dolor sed ab, repudiandae corrupti."  ,  
+          "price"  :  20
+     }    ,  
+     
+     {
+
+
+          "id"  :     3  ,  
+          "cover"  :  "/my-app/app/assert/car6.png"   ,  
+          "title"  :  "Business  Class"  ,  
+          "desc"  :  "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque beatae dolor sed ab, repudiandae corrupti."  ,  
+          "price"  :  400
+     }      
+     
+     
+
+
+
+] 
+  ,  
+
+
+
+
+
+"testimonial"  :  [
+
+     {
+          "id"  :  1  , 
+          "name"  :  "shahrooz"  , 
+          "text"   :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia labore neque minima!"  , 
+          "cover"  :  "/my-app/app/assert/Testimonial/image1.jpg"
+     }  ,  
+     {
+          "id"  :  2  , 
+          "name"  :  "reza"  , 
+          "text"   :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia labore neque minima!"  , 
+          "cover"  :  "/my-app/app/assert/Testimonial/image2.jpg"
+     }  ,  
+     {
+          "id"  :  3  , 
+          "name"  :  "amir"  , 
+          "text"   :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia labore neque minima!"  , 
+          "cover"  :  "/my-app/app/assert/Testimonial/image3.jpg"
+     }  ,  
+     {
+          "id"  :  4  , 
+          "name"  :  "mohamad"  , 
+          "text"   :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia labore neque minima!"  , 
+          "cover"  :  "/my-app/app/assert/Testimonial/image4.jpg"
+     }   
+]
+
+
+
+}
